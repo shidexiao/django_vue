@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecd1478a-4ba6-46b3-8b16-f7604e282504" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fronted/src/components/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_vue/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_vue/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_vue/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_vue/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602387502065</updated>
-      <workItem from="1602387504948" duration="10119000" />
+      <workItem from="1602387504948" duration="10403000" />
     </task>
     <servers />
   </component>
