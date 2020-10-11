@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecd1478a-4ba6-46b3-8b16-f7604e282504" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/api_test/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/django_vue.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/django_vue.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fronted/src/components/Home.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_vue/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_vue/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_vue/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_vue/urls.py" afterDir="false" />
@@ -34,6 +31,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RunDashboard">
@@ -83,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602387502065</updated>
-      <workItem from="1602387504948" duration="1378000" />
+      <workItem from="1602387504948" duration="10119000" />
     </task>
     <servers />
   </component>
